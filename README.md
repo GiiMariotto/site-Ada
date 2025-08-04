@@ -27,12 +27,12 @@ Este site foi criado durante os estudos iniciais de desenvolvimento web. A ideia
 
 ---
 
-## 📸 Captura de Tela (Opcional)
+## 📸 Captura de Tela 
 
 <img width="1522" height="992" alt="image" src="https://github.com/user-attachments/assets/f345b16c-222a-4487-8097-b1ae3072d8c5" />
 
-👩‍💻 Autor(a)
-Feito com 💙 por [Seu Nome ou Nome de Usuário]
+👩‍💻 Autora
+Feito com 💙 por Gii Mariotto
 
 
 
